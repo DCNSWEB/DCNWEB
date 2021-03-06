@@ -1,4 +1,4 @@
-body {
+ body {
   margin: 0;
   text-align: center;
 }
@@ -6,17 +6,64 @@ body {
 img {
   width: 240px;
 }
-
 h1 {
 margin-top: 0;
 
 }
 .top-par{
   color:#0bb5ff ;
-font-size: 40px;
+  font-size: 40px;
 }
 .top-title{
   color:#1520a6;
   font-size: 60px;
+}
+.navigation ul {
+  font: bold 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
 
 }
+.navigation li {
+  display: inline-block;
+}
+.navigation a:hover {
+  background: GREY;
+}
+.navigation b:hover {
+color: gold;
+padding: 15px;
+}
+.navigation b {
+font-size: 40px;
+padding: 15px;
+color: #0bb5ff;
+}
+.navigation c:hover {
+  color: green;
+}
+.navigation c {
+font-size: 40px;
+color: #0bb5ff;
+}
+.navigation d:hover {
+  color: blue;
+}
+.navigation d {
+font-size: 40px;
+padding: 15px;
+color: #0bb5ff;
+}
+.navigation e:hover {
+  color: yellow;
+}
+.navigation e {
+font-size: 40px;
+color: #0bb5ff;
+}
+.navigation f:hover {
+  color: grey;
+}
+.navigation f {
+font-size: 30px;
+color: #0bb5ff;
