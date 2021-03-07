@@ -37,7 +37,7 @@ color: gold;
 }
 .navigation b {
 font-size: 2.5rem;
-
+padding:15px;
 color: #0bb5ff;
 }
 .navigation c:hover {
@@ -73,7 +73,7 @@ color: #0bb5ff;
   color: purple;
   display: inline-block;
     font-size: 2rem;
-    padding-right: 10PX;
+    padding-right: 40PX;
 }
 .e{
   color: purple;
