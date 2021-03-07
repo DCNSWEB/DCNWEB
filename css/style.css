@@ -12,11 +12,11 @@ margin-top: 0;
 }
 .top-par{
   color:#0bb5ff ;
-  font-size: 40px;
+  font-size: 2.5rem;
 }
 .top-title{
   color:#1520a6;
-  font-size: 60px;
+  font-size: 3.75rem;
 }
 .navigation ul {
   font: bold 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -35,7 +35,7 @@ color: gold;
 padding: 15px;
 }
 .navigation b {
-font-size: 40px;
+font-size: 2.5rem;
 padding: 15px;
 color: #0bb5ff;
 }
@@ -43,14 +43,14 @@ color: #0bb5ff;
   color: green;
 }
 .navigation c {
-font-size: 40px;
+font-size: 2.5rem;
 color: #0bb5ff;
 }
 .navigation d:hover {
   color: blue;
 }
 .navigation d {
-font-size: 40px;
+font-size: 2.5rem;
 padding: 15px;
 color: #0bb5ff;
 }
@@ -58,12 +58,13 @@ color: #0bb5ff;
   color: yellow;
 }
 .navigation e {
-font-size: 40px;
+font-size: 2.5rem;
 color: #0bb5ff;
 }
 .navigation f:hover {
   color: grey;
 }
 .navigation f {
-font-size: 30px;
+font-size: 1.5rem;
 color: #0bb5ff;
+}
