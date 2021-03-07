@@ -27,45 +27,44 @@ margin-top: 0;
 }
 .navigation li {
   display: inline-block;
-}
-.navigation a:hover {
-  background: GREY;
-}
-.navigation b:hover {
-color: gold;
+
 
 }
-.navigation b {
+.vd:hover {
+color: gold;
+}
+.vd {
 font-size: 2.5rem;
 padding:15px;
 color: #0bb5ff;
 }
-.navigation c:hover {
+.wf:hover {
   color: green;
 }
-.navigation c {
+.wf {
 font-size: 2.5rem;
 color: #0bb5ff;
+padding: 15px;
 }
-.navigation d:hover {
+.cc:hover {
   color: blue;
 }
-.navigation d {
+.cc {
 font-size: 2.5rem;
 padding: 15px;
 color: #0bb5ff;
 }
-.navigation e:hover {
+.av:hover {
   color: yellow;
 }
-.navigation e {
+.av {
 font-size: 2.5rem;
 color: #0bb5ff;
 }
-.navigation f:hover {
+.cd:hover {
   color: grey;
 }
-.navigation f {
+.cd {
 font-size: 1.5rem;
 color: #0bb5ff;
 }
